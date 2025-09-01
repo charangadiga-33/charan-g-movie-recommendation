@@ -1,0 +1,1 @@
+ratings<-read.csv('data/ratings.csv'); print(head(ratings))
